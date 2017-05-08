@@ -16,7 +16,8 @@
     "install-carthage": "brew install carthage",
     "appium": "appium",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "e2e": "nightwatch --env ios"
+    "test-ios": "nightwatch --env ios",
+    "test-chrome": "nightwatch --env chrome"
   },
   "repository": {
     "type": "git",
