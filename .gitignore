@@ -2,4 +2,4 @@
 test/reports/
 test/screenshots/
 node_modules/
-selenium-debug.log
+*.log
