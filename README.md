@@ -10,5 +10,6 @@ npm run appium
 then on the other window
 ```
 nvm use
-npm run e2e
+npm run text-ios
+npm run text-chrome
 ```
